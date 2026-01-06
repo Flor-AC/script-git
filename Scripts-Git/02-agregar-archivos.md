@@ -10,7 +10,9 @@ Este script muestra cómo **agregar archivos al área de staging** en Git, prepa
 git add nombre-archivo
 ```
 - Prepara un solo archivo para el próximo commit.
-✅ Tip: Útil cuando estás trabajando en varios archivos y quieres commitear solo uno.
+
+💡Tip: Útil cuando estás trabajando en varios archivos y quieres commitear solo uno.
+
 Ejemplo:
 ```bash
 git add README.md
@@ -22,7 +24,8 @@ git add README.md
 git add .
 ```
 - Agrega todos los cambios nuevos o modificados en la carpeta actual y subcarpetas.
-✅ Tip: Muy práctico cuando terminas un conjunto de cambios relacionados.
+
+💡Tip: Muy práctico cuando terminas un conjunto de cambios relacionados.
 
 Ejemplo:
 ```bash
