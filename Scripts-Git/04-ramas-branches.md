@@ -11,8 +11,6 @@ Las ramas permiten trabajar en nuevas funcionalidades o documentos sin afectar e
 - Permite trabajar en cambios sin afectar la rama principal (`main` o `develop`).
 - Es una práctica fundamental para mantener proyectos ordenados y seguros.
 
----
-
 ## 2️⃣ Ver ramas existentes
 
 ```bash
